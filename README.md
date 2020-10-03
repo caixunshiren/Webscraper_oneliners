@@ -7,7 +7,7 @@ The training set is consisted of ~7000 oneliners from r/oneliners and ~5000 from
 
 The webscraping function is in the WebScrape folder
 
-
+Use the reddit_scraper.py to scrape the entire subreddit (title + bodytext)
 
 
 
