@@ -1,5 +1,7 @@
 # Reddit Webscraper for humerous detection
-webscrape dataset for humorous NLP project
+Webscrape dataset for humorous NLP project
+
+Please refer to the folder WebScrape_2.0. The other folder is outdated!
 
 The json file r_jokes_entire_subreddit_1011.txt contains ~ 71,000 oneliners
 
